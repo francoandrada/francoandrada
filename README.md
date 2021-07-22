@@ -55,7 +55,7 @@ Proyectos recientes 👇👇👇
 </a>
 <br><br><br>
 
-✔ myContact= {<br>
+✔ contacto= {<br>
   &nbsp; 📫e-mail: 'francoarganiaraz@gmail.com', <br>
   &nbsp; 💻linkedIn:  <a href="https://www.linkedin.com/in/franco-andrada-dev/"> https://www.linkedin.com/in/franco-andrada-dev/</a></h3><br>
 }
