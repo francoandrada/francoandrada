@@ -44,16 +44,18 @@ Proyectos recientes 👇👇👇
 ```js
 🕺VIDEOGAMES APP🕺
 ```
-<img align="center"  width= "350px" src='landingvideo.jpg'/>    
+<a href="https://github.com/francoandrada/PI-Videogames">
+<img align="center"  width= "350px" src='landingvideo.jpg'/>
+<br>
 <img align="center" width= "350px" src='homevideo.jpg'/>     
+<br>
 <img align="center"  width= "350px" src='createGame.png'/>   
+<br>
 <img align="center" width= "350px" src='gamedetail.png'/>
+</a>
 <br><br><br>
 
-✔ myContact= {
-
-📫e-mail: 'francoarganiaraz@gmail.com',
-
-💻linkedIn:  <a href="https://www.linkedin.com/in/franco-andrada-dev/"> https://www.linkedin.com/in/franco-andrada-dev/</a></h3>
-
+✔ myContact= {<br>
+    📫e-mail: 'francoarganiaraz@gmail.com', <br>
+    💻linkedIn:  <a href="https://www.linkedin.com/in/franco-andrada-dev/"> https://www.linkedin.com/in/franco-andrada-dev/</a></h3><br>
 }
