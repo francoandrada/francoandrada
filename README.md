@@ -31,21 +31,24 @@ Proyectos recientes 👇👇👇
 ``` 
 
 ```js
-🕺WHEATHER APP🕺
+🕺WHEATHER APP🕺 
 ```
-<img align="left"  width= "350px" src='Weatherappimg.jpg' />
+  <dl>
+  <a href="https://github.com/francoandrada/WeatherApp">
+<img align="center"  width= "350px" src='Weatherappimg.jpg' />
+  </a>
+  </dl>
+<br><br><br>
 
-<br>
 
 ```js
 🕺VIDEOGAMES APP🕺
 ```
-<img align="left"  width= "350px" src='landingVideogame.jpg'/>    
-<img align="center" width= "350px" src='homevideogame.jpg' />     
-<img align="left"  width= "350px" src='createGame.png'/>   
-<img align="center" width= "350px" src='paginado.png' />  
-
-<br>
+<img align="center"  width= "350px" src='landingvideo.jpg'/>    
+<img align="center" width= "350px" src='homevideo.jpg'/>     
+<img align="center"  width= "350px" src='createGame.png'/>   
+<img align="center" width= "350px" src='gamedetail.png'/>
+<br><br><br>
 
 ✔ myContact= {
 
