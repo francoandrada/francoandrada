@@ -30,6 +30,8 @@ let francoandrada = {
 Proyectos recientes 👇👇👇
 ``` 
 
+ <br>
+
 ```js
 🕺HARDWARESTORE🕺 
 ```
@@ -41,7 +43,7 @@ Proyectos recientes 👇👇👇
     <br><br>
   </a>
   
-<br><br><br>
+<br><br>
 
 
 
