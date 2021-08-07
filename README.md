@@ -33,11 +33,14 @@ Proyectos recientes 👇👇👇
 ```js
 🕺HARDWARESTORE🕺 
 ```
-  <dl>
-  <a href="https://github.com/francoandrada/WeatherApp">
-<img align="center"  width= "350px" src='Weatherappimg.jpg' />
+  
+  <a href="https://e-commerce-copy.vercel.app/">
+    <img align="center"  width= "450px" src='e-home.png' />
+    <br><br>
+    <img align="center" width= "450px" src='e-cat.png'/>     
+    <br><br>
   </a>
-  </dl>
+  
 <br><br><br>
 
 
@@ -46,13 +49,13 @@ Proyectos recientes 👇👇👇
 🕺VIDEOGAMES APP🕺
 ```
 <a href="https://github.com/francoandrada/PI-Videogames">
-<img align="center"  width= "350px" src='landingvideo.jpg'/>
+<img align="center"  width= "450px" src='landingvideo.jpg'/>
 <br><br>
-<img align="center" width= "350px" src='homevideo.jpg'/>     
+<img align="center" width= "450px" src='homevideo.jpg'/>     
 <br><br>
-<img align="center"  width= "350px" src='createGame.png'/>   
+<img align="center"  width= "450px" src='createGame.png'/>   
 <br><br>
-<img align="center" width= "350px" src='gamedetail.png'/>
+<img align="center" width= "450px" src='gamedetail.png'/>
 </a>
 <br><br><br>
 
@@ -63,7 +66,7 @@ Proyectos recientes 👇👇👇
 ```
   <dl>
   <a href="https://github.com/francoandrada/WeatherApp">
-<img align="center"  width= "350px" src='Weatherappimg.jpg' />
+<img align="center"  width= "450px" src='Weatherappimg.jpg' />
   </a>
   </dl>
 <br><br><br>
