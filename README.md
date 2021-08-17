@@ -36,7 +36,7 @@ Proyectos recientes 👇👇👇
 🕺HARDWARESTORE🕺 
 ```
   
-  <a href="https://e-commerce-copy.vercel.app/">
+  <a href="https://hardwarestore.vercel.app/">
     <img align="center"  width= "450px" src='e-home.png' />
     <br><br>
     <img align="center" width= "450px" src='e-cat.png'/>     
